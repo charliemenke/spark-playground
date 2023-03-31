@@ -1,0 +1,5 @@
+runMemoryLimit
+runtimeJavaHome
+javaTargetVersion
+hadoopVersion
+sparkVersion
